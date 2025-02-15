@@ -1,0 +1,12 @@
+Dataset: https://www.kaggle.com/datasets/tongpython/cat-and-dog/data
+
+-- Place the siomeow and hotdog folders in the test_set and training_set folders --
+-- go to setup then run it all once, then comment training_set and uncoment test_set
+ and sa ubos iuncomment comment pud tapolan ko buot ka kapoy ra bitaw aykabalaka usban na nako "soon"--
+
+ 
+
+
+OpenCV:
+https://www.geeksforgeeks.org/opencv-python-tutorial/
+https://www.geeksforgeeks.org/image-resizing-using-opencv-python/

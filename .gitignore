@@ -1,0 +1,11 @@
+Practice1/
+Practice2/data/csv/*
+Practice2/data/numpy/*
+Practice2/data/test_set/test_set/*
+Practice2/data/training_set/training_set/*
+
+!Practice2/data/numpy/
+!Practice2/data/test_set/test_set/
+!Practice2/data/test_set/test_set/
+!Practice2/data/csv/
+!Practice2/data
