@@ -3,6 +3,9 @@ Practice1/
 Practice2/data/csv/*
 !Practice2/data/csv/.gitkeep
 
+Practice2/data/tfdata/*
+!Practice2/data/tfdata/.gitkeep
+
 Practice2/data/numpy/*
 !Practice2/data/numpy/.gitkeep
 
